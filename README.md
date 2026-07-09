@@ -26,8 +26,9 @@ The dashboard provides HR professionals with key insights into workforce trends,
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard Preview" width="1000">
+  <img src="screenshots/Dashboard.jpeg" alt="Dashboard Preview" width="1000">
 </p>
+
 
 ---
 
