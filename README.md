@@ -1,8 +1,17 @@
 # HR Analytics Dashboard | Power BI
 
 <p align="center">
-  <img src="https://media.giphy.com/media/..." width="450">
+
+  <img src="https://img.shields.io/badge/POWER%20BI-Dashboard-FFCA28?style=for-the-badge&logo=powerbi&logoColor=black">
+
+  <img src="https://img.shields.io/badge/STATUS-Completed-2ECC71?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-808080?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/HR%20Analytics-Insights-007BFF?style=for-the-badge">
+
 </p>
+
 
 
 ##  Project Overview
