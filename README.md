@@ -1,8 +1,9 @@
 # HR Analytics Dashboard | Power BI
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="HR Analytics Dashboard" width="1000">
+  <img src="https://media.giphy.com/media/..." width="450">
 </p>
+
 
 ##  Project Overview
 
